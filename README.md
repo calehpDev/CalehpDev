@@ -10,7 +10,7 @@ Congratulations you found the first one!
 # 🤔 About me:
 
 - 🐇 Following the white rabbit
-- 🐈 Cat dad 😻
+- I like cars
 - Valle Grande student
 - 👨🏻‍💻 Full-Stack Developer
 - 💊 Coding the Matrix
