@@ -26,16 +26,12 @@ Congratulations you found the first one!
 ⭐️ From [CalehpDev](https://github.com/rodrigograca31)
 ## 🛠️ Tech Stack
 
-### 🔧 Backend Development
+### 🔧 Junior development
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,flask,nodejs,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,flask,&theme=dark" />
   <br/>
-  <img src="https://img.shields.io/badge/Spring_Boot_Reactive-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" />
+
 </div>
 
 ### 🎨 Frontend Development
