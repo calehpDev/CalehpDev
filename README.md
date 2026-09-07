@@ -9,14 +9,12 @@ Congratulations you found the first one!
 
 # 🤔 About me:
 
-- 🐇 Following the white rabbit
-- I like cars
-- Valle Grande student
-- 👨🏻‍💻 Full-Stack Developer
-- 💊 Coding the Matrix
+- Me gustan los coches.
+- Alumno de valle grande
+- desarrollador junior
+- 💊 Programando la matriz
 - 😍 Amante de la progranacion
-- 🚀 One day I will see humans on Mars!
-- 🐇🥚 There's easter eggs in this profile...
+- 🚀 ¡Un día veré humanos en Marte!
 
 <!-- Watch this: https://www.youtube.com/watch?v=eC7xzavzEKY -->
 
