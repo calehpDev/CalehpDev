@@ -34,13 +34,12 @@ Congratulations you found the first one!
 
 </div>
 
-### 🎨 Frontend Development
+### 🎨 Junior development
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css,js,ts,tailwind,bootstrap,angular&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css,js,ts,tailwind,angular&theme=dark" />
   <br/>
   <img src="https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </div>
 
 ### 🗄️ Databases & Storage
